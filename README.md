@@ -1,5 +1,7 @@
 # Library-Management-System
 
+This is a simple Library Management System implemented using Java and mySQL.
+
 This system provides a login to the admin and librarians to perform functions such as add, view, delete librarians and books. Mainly this system provides the access to the students to search required books and check availability of any required book.
   
 First the ‘home’ window is loaded when you run the project. There you can click the ‘Student’ button if you are a student, or the ‘guest login’ button if you are either an admin or a librarian. 
