@@ -4,7 +4,9 @@ This system provides a login to the admin and librarians to perform functions su
   
 First the ‘home’ window is loaded when you run the project. There you can click the ‘Student’ button if you are a student, or the ‘guest login’ button if you are either an admin or a librarian. 
 Let’s see the functions of different users in the system.
-Students:
+
+## Students:
+
 When you click the ‘student’ button on the HomePage window you get directed to a form with two buttons:
 * View book details: 
   * When you click this you get directed to the ‘StudentPage’ form.
